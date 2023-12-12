@@ -1,5 +1,5 @@
 # osu-silver
-osu!silver is a internal AIO osu! mod menu, written in C++ and C#.
+osu!silver is a external AIO osu! mod menu, written in C#.
 
 ## NOTE: This repository is only for reporting issues.
 
