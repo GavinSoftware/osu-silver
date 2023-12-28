@@ -1,11 +1,17 @@
 # osu-silver
-osu!silver is a external AIO osu! mod menu, written in C#.
+osu!silver is an internal all-in-one mod menu created for the rhythm game osu!. This repository is made only for reporting issues, the actual program is paid.
 
-## NOTE: This repository is only for reporting issues.
+## Features
+### Aim
+Aim Assist: 
 
-## Features (Work in Progress)
-Aim Assist (Broken)
+Assists your aim to help you aim towards circles and sliders.
 
-Relax (Broken)
+Includes Aim Assist Strength, Start and Stop Distance Settings, and probably more in the feature.
 
-Hitobject Locator (Working, or use with HD and/or FL)
+### Tapping
+Relax:
+
+Does the tapping for you
+
+Includes different settings for offset and unstable rate.
