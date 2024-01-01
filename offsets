@@ -1,0 +1,7 @@
+osu_manager_offset = 0x5d30
+audio_time_offset = 0x7b58
+current_scene_offset = 0x8d40
+update_timing_1_offset = 0xb6eb
+update_timing_2_offset = 0xb88f
+approach_rate_offset = 0x3ec5
+funny_hidden_offset = 0xf6c5
