@@ -1,5 +1,6 @@
 osu_manager_offset = 0xe7c8
 audio_time_offset = 0x1438
 current_scene_offset = 0x7930
-update_timing_1_offset = 0xbbb
-update_timing_2_offset = 0xd5f
+
+test1 = 0x1438
+test2 = 0x1449
