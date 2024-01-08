@@ -11,6 +11,8 @@ Aim Assist - Helps you aim towards circles/sliders
 
 Relax - Taps the notes for you
 
+### Visuals
+
 HitObject Overlay - Creates an overlay to allow you to play without extra visual effects, for example if you are using HDFL, you would see notes normally. (ENABLE BORDERLESS MODE FOR IT TO WORK)
 
 ### Replays
