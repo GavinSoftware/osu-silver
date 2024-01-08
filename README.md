@@ -1,6 +1,6 @@
 # osu-silver
 ## What is osu!silver?
-osu!silver is an external all-in-one mod menu created for the rhythm game osu! (only osu!std is supported at the moment), coded completely in C++. This repository is made only for reporting issues, the actual program is paid.
+osu!silver is an external all-in-one mod menu created for the rhythm game osu! (only osu!std is supported at the moment), coded in C# and C++. This repository is made only for reporting issues, the actual program is paid.
 
 This program when released will come with multiple modes, one being IPC (Completely External), and possibly in the future Normal (Semi External). Normal Mode may or may not be added.
 
