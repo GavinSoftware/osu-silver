@@ -16,7 +16,7 @@ Relax - Taps the notes for you
 Funny Overlay - Creates an overlay to allow you to play without extra visual effects, for example if you are using HDFL, you would see notes normally. It also gives you the option to change AR. (ENABLE BORDERLESS MODE FOR IT TO WORK)
 
 ### Replays
-Replay Timewarp (*) - Allows you to create replays and play at a slower playback speed, so you it's basically external timewarp.
+Replay Timewarp (*) - Allows you to create replays and play at a slower playback speed, so it's basically external timewarp.
 
 ## Normal Mode Features (* = May/May not be added)
 
@@ -31,6 +31,6 @@ Hidden Remover/Flashlight Remover (*) - Allows for removal of the flashlight ove
 ## Progress so far
 Aim Assist has been added and is working really well.
 
-Funny Overlay has been added, but I'll have to add approach circles and fix the circles not actually appearing for it to be used.
+Funny Overlay has been added, but I'll have to add approach circles and fix the circles not actually appearing, otherwise the overlay won't work.
 
 Will be adding Relax after overlay, then maybe Replay Timewarp.
