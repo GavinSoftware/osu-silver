@@ -13,7 +13,7 @@ Relax - Taps the notes for you
 
 ### Visuals
 
-HitObject Overlay - Creates an overlay to allow you to play without extra visual effects, for example if you are using HDFL, you would see notes normally. (ENABLE BORDERLESS MODE FOR IT TO WORK)
+Funny Overlay - Creates an overlay to allow you to play without extra visual effects, for example if you are using HDFL, you would see notes normally. It also gives you the option to change AR. (ENABLE BORDERLESS MODE FOR IT TO WORK)
 
 ### Replays
 Replay Timewarp (*) - Allows you to create replays and play at a slower playback speed, so you it's basically external timewarp.
@@ -27,3 +27,10 @@ Normal Timewarp (*) - Slows down/Speeds up the game depending on what value you 
 Approach Rate Changer (*) - Changes the AR of a map
 
 Hidden Remover/Flashlight Remover (*) - Allows for removal of the flashlight overlay/hidden visual effects
+
+## Progress so far
+Aim Assist has been added and is working really well.
+
+Funny Overlay has been added, but I'll have to add approach circles and fix the circles not actually appearing for it to be used.
+
+Will be adding Relax after overlay, then maybe Replay Timewarp.
